@@ -1,0 +1,6 @@
+{
+  "name": "EduBridge",
+  "description": "An offline-first educational platform with student workspaces, teacher analytics, sync center, adaptive learning, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
