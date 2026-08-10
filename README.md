@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# EduBridge 🎓
 
-# Run and deploy your AI Studio app
+> **EduBridge** connects students, educators, and resources into one seamless platform. Built using AI-driven tools to streamline learning.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/25569a1c-c08c-40b8-b14f-5beb6473833d
+## 🌟 Features
 
-## Run Locally
+* **Feature 1:** Describe a key feature of your project here.
+* **Feature 2:** Describe another feature (e.g., interactive quizzes, AI assistance, etc.).
+* **Feature 3:** Responsive, modern user interface.
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **Frontend:** TypeScript, React, Vite
+* **AI Integration:** Google Gemini API (via Google AI Studio)
+* **Styling:** CSS / Tailwind (or whatever you used)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### Prerequisites
+
+Ensure you have **Node.js** installed on your system.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/PriyankaBagri/edubridge.git](https://github.com/PriyankaBagri/edubridge.git)
+   cd edubridge
