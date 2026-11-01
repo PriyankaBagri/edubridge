@@ -3,7 +3,7 @@
 
 EduBridge is an interactive educational learning platform designed to make digital learning more engaging and accessible for students. It combines multilingual learning interfaces, interactive assessments, AI-assisted explanations, and gamification in a unified student learning experience.
 
-**[Live Demo](https://edubridge-dusky-phi.vercel.app/) · [GitHub Repository](https://github.com/PriyankaBagri/edubridge)**
+** [GitHub Repository](https://github.com/PriyankaBagri/edubridge)**
 
 ---
 
